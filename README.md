@@ -17,3 +17,4 @@ My leetcode profile can be viewed [here](https://leetcode.com/arshad115/)
 | 3    | [Longest Substring Without Repeating Characters](./codes/2020-07-19-longest-substring-without-repeating-characters.py) |
 | 4    | [Median of Two Sorted Arrays](./codes/2020-07-20-median-of-two-sorted-arrays.py) |
 | 5    | [Longest Palindromic Substring](./codes/2020-07-21-longest-palindromic-substring.py) |
+| 6    | [Merge Sorted Array](./codes/2020-07-22-merge-sorted-array.py) |
