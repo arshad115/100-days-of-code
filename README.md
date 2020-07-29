@@ -22,4 +22,6 @@ My leetcode profile can be viewed [here](https://leetcode.com/arshad115/)
 | 8    | [Valid Number](./codes/2020-07-24-valid-number.py) |
 | 9    | [String to Integer (atoi)](./codes/2020-07-25-string-to-integer-atoi.py) |
 | 10    | [Two Sum](./codes/2020-07-26-two-sum2020-07-26-two-sum.py) |
+| 11    | [Reverse Integer](./codes/2020-07-27-reverse-integer.py) |
 | 12    | [Valid Parentheses](./codes/2020-07-28-valid-parentheses.py) |
+| 13    | [3sum](./codes/2020-07-29-3sum.py) |
