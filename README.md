@@ -21,4 +21,5 @@ My leetcode profile can be viewed [here](https://leetcode.com/arshad115/)
 | 7    | [Remove Nth Node From End of List](./codes/2020-07-23-remove-nth-node-from-end-of-list.py) |
 | 8    | [Valid Number](./codes/2020-07-24-valid-number.py) |
 | 9    | [String to Integer (atoi)](./codes/2020-07-25-string-to-integer-atoi.py) |
-| 10    | [Two Sum](./codes/2020-07-26-two-sum.py) |
+| 10    | [Two Sum](./codes/2020-07-26-two-sum2020-07-26-two-sum.py) |
+| 12    | [Valid Parentheses](./codes/2020-07-28-valid-parentheses.py) |
