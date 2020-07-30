@@ -25,3 +25,4 @@ My leetcode profile can be viewed [here](https://leetcode.com/arshad115/)
 | 11    | [Reverse Integer](./codes/2020-07-27-reverse-integer.py) |
 | 12    | [Valid Parentheses](./codes/2020-07-28-valid-parentheses.py) |
 | 13    | [3sum](./codes/2020-07-29-3sum.py) |
+| 14    | [Minimum Add to Make Parentheses Valid](./codes/2020-07-30-minimum-add-to-make-parentheses-valid.py) |
