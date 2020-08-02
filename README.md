@@ -28,3 +28,4 @@ My leetcode profile can be viewed [here](https://leetcode.com/arshad115/)
 | 14    | [Minimum Add to Make Parentheses Valid](./codes/2020-07-30-minimum-add-to-make-parentheses-valid.py) |
 | 15    | [Word Subsets](./codes/2020-07-30-minimum-add-to-make-parentheses-valid.py) |
 | 16    | [Merge Intervals](./codes/2020-08-01-merge-intervals.py) |
+| 17    | [Permutations](./codes/2020-08-02-permutations.py) |
